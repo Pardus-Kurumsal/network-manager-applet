@@ -1,3 +1,9 @@
+network-manager-applet (1.4.4-1pardus2) unstable; urgency=medium
+
+  * Add patches relates translation
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 17 Jul 2018 13:33:51 +0300
+
 network-manager-applet (1.4.4-1pardus1) unstable; urgency=medium
 
   * Pardus CI implementation
