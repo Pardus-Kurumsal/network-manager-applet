@@ -1,3 +1,4 @@
 Allow-to-create-connections-without-admin-privileges.patch
 Force-online-state-with-unmanaged-devices.patch
 Update-Turkish-translations.patch
+Fix-Turkish-translation-missing-fields.patch
